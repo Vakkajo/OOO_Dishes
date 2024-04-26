@@ -1,0 +1,13 @@
+C:\Users\IT-STUDENT.MEPHI3.005\source\repos\Dishes_ooo\Dishes_ooo\bin\Debug\Dishes_ooo.exe.config
+C:\Users\IT-STUDENT.MEPHI3.005\source\repos\Dishes_ooo\Dishes_ooo\bin\Debug\Dishes_ooo.exe
+C:\Users\IT-STUDENT.MEPHI3.005\source\repos\Dishes_ooo\Dishes_ooo\bin\Debug\Dishes_ooo.pdb
+C:\Users\IT-STUDENT.MEPHI3.005\source\repos\Dishes_ooo\Dishes_ooo\obj\Debug\Dishes_ooo.csprojResolveAssemblyReference.cache
+C:\Users\IT-STUDENT.MEPHI3.005\source\repos\Dishes_ooo\Dishes_ooo\obj\Debug\Dishes_ooo.LogInForm.resources
+C:\Users\IT-STUDENT.MEPHI3.005\source\repos\Dishes_ooo\Dishes_ooo\obj\Debug\Dishes_ooo.Properties.Resources.resources
+C:\Users\IT-STUDENT.MEPHI3.005\source\repos\Dishes_ooo\Dishes_ooo\obj\Debug\Dishes_ooo.csproj.GenerateResource.cache
+C:\Users\IT-STUDENT.MEPHI3.005\source\repos\Dishes_ooo\Dishes_ooo\obj\Debug\Dishes_ooo.csproj.CoreCompileInputs.cache
+C:\Users\IT-STUDENT.MEPHI3.005\source\repos\Dishes_ooo\Dishes_ooo\obj\Debug\Dishes_ooo.exe
+C:\Users\IT-STUDENT.MEPHI3.005\source\repos\Dishes_ooo\Dishes_ooo\obj\Debug\Dishes_ooo.pdb
+C:\Users\IT-STUDENT.MEPHI3.005\source\repos\Dishes_ooo\Dishes_ooo\obj\Debug\Dishes_ooo.MainAdminForm.resources
+C:\Users\IT-STUDENT.MEPHI3.005\source\repos\Dishes_ooo\Dishes_ooo\obj\Debug\Dishes_ooo.MainClientForm.resources
+C:\Users\IT-STUDENT.MEPHI3.005\source\repos\Dishes_ooo\Dishes_ooo\obj\Debug\Dishes_ooo.MainManagerForm.resources
